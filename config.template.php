@@ -11,9 +11,14 @@
 $text = "";
 
 /**
- * The URL of the image to be sent.
+ * The URLs of the images to be sent.
  */
-$imageURL = "";
+$imageURLs = array(
+  "",
+  "",
+  ""
+);
+$imageURL = $imageURLs[array_rand($imageURLs)];
 
 /**
  * Discord WebhookURL

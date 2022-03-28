@@ -1,5 +1,4 @@
-# discord-reminderBot
-Sends a predefined message with an image to a discord text channel at defined intervals.
+# WebHook variant
 
 ## Configuration
 Rename the `config.template.php` to `config.php` and fill in the variables with the text editor of your choice:  

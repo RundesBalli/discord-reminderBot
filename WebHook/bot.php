@@ -1,11 +1,11 @@
 <?php
 /**
- * Discord ReminderBot
+ * Discord ReminderBot (WebHook variant)
  * 
  * Sends a previously defined message to a discord text channel at defined intervals.
  * 
  * @author    RundesBalli <webspam@rundesballi.com>
- * @copyright 2020 RundesBalli
+ * @copyright 2022 RundesBalli
  * @version   1.0
  * @license   MIT-License
  * @see       https://github.com/RundesBalli/discord-reminderBot
